@@ -6,7 +6,10 @@ Para criar um novo banco de dados para a sua instância no portal do Azure, siga
 2. Defina Assinatura, nome do grupo de recursos, região. 
 3. Após o preenchimento e escolha dos campos obrigatórios, basta revisar e criar.
 
-4. Criar uma Instância de Azure SQL Database
+![image](https://github.com/user-attachments/assets/9c06080c-60d1-4014-b61e-2c9bc6af7bc3)
+
+
+4. Criar SQL Database Azure
 No portal, busque por “SQL Database” na barra de pesquisa.
 Clique em “+ Criar” ou “Criar SQL Database”.
 
